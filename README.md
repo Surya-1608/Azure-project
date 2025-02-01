@@ -27,9 +27,8 @@ The Tokyo Olympics dataset was sourced from Kaggle and uploaded to GitHub.
 
 Data was ingested into Azure Data Factory (ADF).
 
-The dataset was stored in Azure Data Lake Storage Gen2 (Raw Folder).
 ![image](https://github.com/user-attachments/assets/28f5d313-3fbc-434e-890f-21ae8ad5daac)
-
+The dataset was stored in Azure Data Lake Storage Gen2 (Raw Folder).
 
 3️⃣** Data Processing** (Azure Databricks)
 
